@@ -1,0 +1,24 @@
+
+# === ChatGPT notes ===
+ChatGPT_MD
+copilot-custom-prompts
+
+# === macOS ===
+.DS_Store
+._*
+
+# === Obsidian ===
+.obsidian/
+*.excalidraw.md
+*.canvas
+.obsidian-workspace.json
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+out/
+
+# === Java / Gradle / Maven ===
+target/
+build/
+.gradle/
