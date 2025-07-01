@@ -1,0 +1,60 @@
+# 🚀 QUICKSTART $TECH$
+
+
+
+## 🎯 What is $TECH$
+
+bla bla
+
+## 👩‍💻 Who should use it and why ?
+
+- Intended audience
+- Main competitors
+- Gradle key benefits
+- You may not like it if...
+
+## 📚 Useful Resources
+
+- Official docs
+- Cheatsheets
+- GitHub boilerplate projects
+- Link to other wiki notes using the Wikinotes syntax ([[OTHER_TECH]])
+
+## First step
+
+Go to URL / Open IntelliJ / ...
+
+## 📂 Important files
+
+- `path`: blah blah blah
+
+## 🐚 Important commands
+
+```bash
+# to do xx
+$ command here
+
+# to do y
+$ command here
+```
+
+## 🧰 Prerequisites
+- Required tools (Java, Docker, CLI, SDK…)
+- Recommended versions
+
+
+## ⚙️ Custom Configuration
+- Files I modify systematically (`application.yml`, etc.)
+- Snippets I use
+- Profiles / environments
+- Formatting / linting / style
+
+## ⚠️ Gotchas / Known Issues
+- Pain points or unexpected defaults
+- Version incompatibilities, plugin conflicts, etc.
+
+
+## 🧠 Personal Notes
+- Design decisions, reasoning, best practices
+- Internal links to other notes (`spring.md`, `intellij.md`…)
+
